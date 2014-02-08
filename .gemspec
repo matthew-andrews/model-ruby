@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'mattandrews-model'
+  s.name        = 'matt_andrews-model'
   s.version     = '0.0.1'
   s.licenses    = ['MIT']
   s.summary     = "Ruby port of @wilsonpage's model"
