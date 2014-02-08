@@ -6,4 +6,3 @@ Rake::TestTask.new(:test) do |t|
   t.pattern = 'test/tests/*.rb'
   t.verbose = true
 end
-
