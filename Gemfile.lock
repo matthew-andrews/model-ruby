@@ -14,4 +14,4 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.5)
   matt_andrews-model!
-  rake
+  rake (~> 10.1)
