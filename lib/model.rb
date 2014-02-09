@@ -23,7 +23,7 @@ module MattAndrews
       self
     end
 
-    def toJSON
+    def to_json
       @data
     end
 
