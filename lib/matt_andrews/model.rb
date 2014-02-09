@@ -1,3 +1,5 @@
+require "matt_andrews/model/version"
+
 module MattAndrews
   class Model
     def initialize(data = {})

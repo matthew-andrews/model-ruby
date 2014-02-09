@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require 'model'
+require 'matt_andrews/model'
 
 module MattAndrews
   class TestModel < MiniTest::Unit::TestCase

@@ -1,6 +1,6 @@
 require 'minitest/autorun'
 require 'json'
-require 'model'
+require 'matt_andrews/model'
 
 module MattAndrews
   class TestModelToJson < MiniTest::Unit::TestCase
